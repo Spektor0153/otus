@@ -1,0 +1,16 @@
+{
+  "name": "otus",
+  "version": "1.0.0",
+  "description": "otus",
+  "main": "tree.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tree": "node tree.js"
+  },
+  "author": "Spektor",
+  "license": "ISC"
+}
