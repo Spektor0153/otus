@@ -54,6 +54,7 @@ getTree(console_path, function (err, tree) {
 	console.log(JSON.stringify(tree));
 });
 
-
-
+/* start project*/
+// npm install
+// npm run tree -- foo/
 
