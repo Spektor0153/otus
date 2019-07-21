@@ -52,7 +52,6 @@ getTree(console_path, function (err, tree) {
 	if (err) {console.log(err); return}
 	console.log(tree);
 	console.log(JSON.stringify(tree));
-	
 });
 
 
